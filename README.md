@@ -10,7 +10,7 @@ Handling.meta for FiveM ESX Servers
 🔧 Download & Installation
 1. Download the files
 2. Put the "Handling" folder in the server resource directory
-3. Add this to your ´´´server.cfg´´´
-´´´´
+3. Add this to your ```server.cfg```
+````
 ensure Handling
-´´´´
+````
